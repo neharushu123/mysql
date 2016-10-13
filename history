@@ -1,0 +1,4 @@
+MySQL was created by a Swedish company, MySQL AB, founded by David Axmark, Allan Larsson and Michael "Monty" Widenius.
+Original development of MySQL by Widenius and Axmark began in 1994.
+The first version of MySQL appeared on 23 May 1995.
+It was initially created for personal usage from mSQL based on the low-level language ISAM, which the creators considered too slow and inflexible. They created a new SQL interface, while keeping the same API as mSQL. By keeping the API consistent with the mSQL system, many developers were able to use MySQL instead of the (proprietarily licensed) mSQL antecedent.[citation needed][dub]
